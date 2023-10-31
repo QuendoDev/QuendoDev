@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- Physics Student on UGR 🔭
+- Amateur developer in Java and C# ⌨️
+- Some knowledge in Fortran, Python and C++. 🎓​
 <!--
 **QuendoDev/QuendoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
