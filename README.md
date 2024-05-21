@@ -1,5 +1,5 @@
 ### My information 💬
-- Physics Student on UGR 🔭
+- Physics Student at UGR 🔭
 - Amateur developer in Java and C# ⌨️
 - Some knowledge in Fortran, Python and C++. 🎓​
 <!--
